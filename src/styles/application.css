@@ -1,0 +1,49 @@
+.vbox{
+	-fx-background-color: #76BA99;
+}
+
+.button{
+	-fx-background-color: #EDDFB3;
+}
+
+.button:hover{
+	-fx-background-color: #876445;
+}
+
+.button:pressed{
+	-fx-translate-y: -5;
+}
+
+.spane{
+	-fx-background-color: #CA955C;
+}
+
+#btnFinish{
+	-fx-background-color: #59CE8F;
+		-fx-text-fill: white;
+		-fx-font-weight: bold;
+}
+
+#btnFinish:hover{
+	-fx-background-color: #59CE6E;
+	-fx-translate-y: -5;
+}
+
+#btnCancel{
+	-fx-background-color: #FF1E00;
+	-fx-text-fill: white;
+	-fx-font-weight: bold;
+}
+
+#btnCancel:hover{
+	-fx-background-color: #FF2531;
+	-fx-translate-y: -5;
+}
+
+.textfield{
+	-fx-background-radius : 20.0;
+}
+
+.cbb{
+	-fx-text-fill: white;
+}
